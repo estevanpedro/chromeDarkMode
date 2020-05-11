@@ -28,6 +28,7 @@ function gotMessage(status, sender, sendResponse) {
 
         for (elt of divs) {
             elt.style['background-color'] = "#262626";
+            elt.style['color'] = "rgba(255,255,255)";
             // elt.style['color'] = "#DBDBDB";
         }
 
